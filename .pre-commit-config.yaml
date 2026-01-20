@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/greggdonovan/agent-skills-lint
-    rev: v0.1.0
+    rev: v0.1.1
     hooks:
       - id: agent-skills-lint
       - id: agent-skills-lint-fix
